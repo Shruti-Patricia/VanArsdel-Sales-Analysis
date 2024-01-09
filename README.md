@@ -7,7 +7,7 @@ Data Source
 The project utilizes a sales dataset obtained from Kaggle, featuring sales data for VanArsdel and its competitors. 
 
 Data Preparation
-In the data preparation phase, several crucial steps were taken to ensure the data is clean, organized, and ready for analysis. 
+In the data preparation phase, several crucial steps were taken to ensure the data is clean, organized, and ready for analysis.
 Renaming Tables: Tables were renamed for clarity and consistency.
 Updating Data Types: Ensured correct data types for each column to avoid errors.
 Handling Empty Values: Filled empty values using appropriate methods to maintain data integrity.
@@ -18,11 +18,15 @@ Appending Tables: Combined relevant tables to create a comprehensive dataset.
 
 Data Exploration and Modeling
 Conditional Formatting
-To enhance the visual appeal of the data and highlight important information, conditional formatting techniques were applied. This aids in quickly identifying trends, outliers, and patterns within the dataset.
+To enhance the visual appeal of the data and highlight important information, conditional formatting techniques were applied. 
+This aids in quickly identifying trends, outliers, and patterns within the dataset.
 Market Analysis
-The project includes comprehensive market analysis visualizations that provide insights into market trends, customer behavior, and overall market performance. These visualizations help stakeholders make informed decisions and identify opportunities for growth.
+The project includes comprehensive market analysis visualizations that provide insights into market trends, customer behavior, and overall market performance. 
+These visualizations help stakeholders make informed decisions and identify opportunities for growth.
 Van Arsdale Analysis (Manufacturer Analysis)
-The Manufacturer Analysis section focuses specifically on VanArdsale's performance. Visualizations are designed to track key business metrics, create scorecards, and measure progress against predefined goals. This analysis enables a deeper understanding of VanArdsale's market position and helps in strategic decision-making.
+The Manufacturer Analysis section focuses specifically on VanArdsale's performance. 
+Visualizations are designed to track key business metrics, create scorecards, and measure progress against predefined goals. 
+This analysis enables a deeper understanding of VanArdsale's market position and helps in strategic decision-making.
 
 Key Features
 Comprehensive Data Visualizations: Engaging and informative visualizations that bring data to life.
