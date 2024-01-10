@@ -1,4 +1,4 @@
-# PoweBI_Project-2
+# SALES-ANALYSIS
 Welcome to the Power BI Sales Analysis Project! 
 This project focuses on analyzing sales data for VanArsdel and its competitors in the U.S. 
 The primary goal is to provide insightful visualizations and key performance indicators (KPIs) to facilitate informed decision-making and track business metrics effectively.
